@@ -1,4 +1,4 @@
-yum install git
+apt install git
 git clone https://github.com/vipin-k/kubernetes-ingress.git
 cd kubernetes-ingress/
 cd deployments/
